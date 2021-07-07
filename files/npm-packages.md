@@ -31,3 +31,15 @@ const child = spawn('npm', ['list', '-g', '-depth', '0'], { stdio: 'inherit' });
 const result = spawn.sync('npm', ['list', '-g', '-depth', '0'], { stdio: 'inherit' });
 ```
 
+## webpack
+
+1. Webpack & webpack-cli
+2. 
+
+## 脚手架
+
+1. [plop](https://www.npmjs.com/package/plop)：小型脚手架工具
+
+## 工具库
+
+1. [lodash](https://www.lodashjs.com/)：一个一致性、模块化、高性能的 JavaScript 实用工具库。
